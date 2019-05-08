@@ -2,5 +2,5 @@
 
 ## Collaborators/Teammates
 
-Evan Yang
-Yinyin Wen
+-Evan Yang
+-Yinyin Wen
